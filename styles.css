@@ -1,0 +1,173 @@
+
+.nav-link{
+    font-size: 23px;
+    margin-bottom: 0px;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue    ;
+    font-weight: 900; 
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 1.8% 16%;
+
+}
+.Download{
+    margin-right:20px ;
+    margin-bottom: 50px;
+    
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+
+#title{
+    background-color: #ff4c68;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    height: 768px;
+    width: 381px;
+}
+
+#features{
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+.check{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+h2{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
+p{
+    color: #8f8f8f;
+}
+
+.icon{
+    margin-bottom: 1rem;
+    color: #7bcad4;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.dog-image{
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 15px  20px 15px;
+}
+
+.row1{
+    margin-right: 0px;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-col{
+    padding: 3% 2%;
+}
+.container-fluid1{
+    background-color: #ff4c68;
+    padding: 5% 18%;
+}
+
+.container-fluid2{
+    background-color: #fff;
+    padding: 5% 18%;
+    text-align: center;
+}
+.cda{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 5%;
+    text-align: center;
+    color: aliceblue    ;
+    font-weight: 900; 
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+.icon1{
+    margin: 7px;
+    padding-bottom: 3%;
+    color: black;
+}
+.icon1:hover{
+    color: aqua;
+}
+.abinav1{
+    color: black;
+    font-weight: bold;
+}
+
+@media (max-width : 1028px){
+    .title-img{
+    width: 60%;
+    transform: rotate(25deg);
+    position: static;
+    height: 768px;
+    width: 381px;
+    transform: rotate(0);
+    }
+    #title{
+        text-align: center;
+    }
+
+}
+.download1{
+    text-align: center;
+}
+
+.para{
+    font-size: 1.5rem;
+}
+
+
+

@@ -1,0 +1,183 @@
+/* -------------------------------------------------------------------------------- CONTAINER 1 --------------------------------------------------------------------------------------------------------------------- */
+
+#cont-1{
+    padding: 5% 20% 5% 17%;
+    background-color: #000000;
+
+}
+.navbar{
+    background-color: #000000;
+    padding-bottom: 5%;
+}
+.navbar-brand{
+    color: #ffff;
+    font-family: 'Roboto', sans-serif;   
+}
+
+.nav-link{
+    color: #ffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-item{
+    padding-left: 10%;
+}
+
+.navbar-nav{
+    padding-left: 57%;
+}
+
+.backg-1{
+    padding-left: 22%;
+}
+
+h1{
+    line-height: 1;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 9.375rem;
+    margin-bottom: 0px;
+    color: #ffff;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #ffff;
+}
+.abinav{
+    color: red;
+}
+.worldclass{
+    color: red;
+}
+
+.nav-item.hover{
+    color: #25ea8b ;
+}
+.dot{
+    font-size: 3rem;
+    color: red;
+}
+
+/*-------------------------------------------------------------------------------------------- conttainer - 2 ------------------------------------------------------------------------------------------------------ */
+#cont-2{
+    background-color: #25ea8b;
+    padding: 5% 20% 2% 17%;
+}
+.about{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    line-height: 2;
+}
+.ui{
+    color: #ffff;
+    font-weight: bold;
+}
+.ux{
+    color: #e54786 ;
+    font-weight: bold;
+}
+.apple{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.apple:hover{
+    color: #e54786;
+}
+.steven{
+    opacity: 0.9;
+}
+.line{
+    color: #ffff;
+    font-size: 5rem;
+    font-weight: bold;
+}
+.me1{
+    padding-left:1rem;
+    padding-top: 25rem;
+}
+.me{
+    color: #000000;
+    font-size: 5rem;
+    font-weight: bold;
+}
+.myself{
+    color: #e54786;
+}
+.line{
+    font-size: 10rem;
+}
+
+/* ---------------------------------------------------------------------------------CONTAINER 3---------------------------------------------------------------------------------------------------------------------- */
+#cont-3{
+    padding: 0% 20% 2% 17%;
+    color: #ffff;
+}
+.what{
+    color: #000000;
+    text-align: left;
+    font-size: 4rem;
+    padding-top: 4%;
+}
+
+.progress{
+    margin: 1.5rem;
+}
+.domain-sub{
+    color: #808080;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.skills{
+    color: #808080;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    padding-top: 3rem;
+    padding-right: 2rem;
+}
+.card-text{
+    color: #808080;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+.card-body{
+    text-align: center;
+}
+.p1{
+    color: #000000;
+    font-size: 1.5rem;
+}
+.p2{
+    text-align: center;
+}
+.prjects{
+    color: #000000;
+}
+.check{
+    color: #0d92eb;
+    padding-right: 8rem;
+}
+
+#cont-4{
+    background-color: #000000;
+    padding: 5% 20% 2% 17% ;
+}
+.c2{
+    margin: 1rem;
+}
+.domain{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 700;
+    font-size: 4rem;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.line2{
+    font-size: 8rem;
+    color: #0054f7;
+}
